@@ -264,7 +264,7 @@ ssConfigPath = "H:\Shadowsocks\gui-config.json"
 
 
 if __name__ == '__main__':
-    url = 'https://c.ishadowx.net/'
+    url = 'https://c.ishadowx.com/'
     shadowsocks = ShadowSocks(ssPath=ssPath, ssConfigPath=ssConfigPath, url=url)
     ss8 = SS8(ssPath=ssPath, ssConfigPath=ssConfigPath)   
 
