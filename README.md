@@ -1,1 +1,3 @@
 # iShadow
+
+For ShadowSocks
